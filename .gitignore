@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+# Figures under docs/figures ARE committed - they are the teaching material.
+# Anything an example writes elsewhere is scratch.
+/out/
